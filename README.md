@@ -16,3 +16,5 @@
 * [idea 中文输入法定位不准问题修复(fcitx框架输入法)](https://blog.csdn.net/u011166277/article/details/106287587)  
 * [BUG解决之路-1 Linux下fcitx输入法候选框在IDEA等JetBrains系列IDE中不跟随光标（JetBrains Runtime版本：11.0.7）](https://blog.csdn.net/qq_41859728/article/details/109187748)  
 
+## 已经不需要这个patch
+* [JBR17的release里面已经包含了JBR-2460 ](https://github.com/JetBrains/JetBrainsRuntime/releases/tag/jbr-release-17.0.9b1087.9)https://github.com/JetBrains/JetBrainsRuntime/releases/tag/jbr-release-17.0.9b1087.9)
